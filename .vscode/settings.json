@@ -1,0 +1,6 @@
+{
+    "eslint.workingDirectories": [
+    "/ecommerce-app",
+    "/node_modules"
+  ]
+}
